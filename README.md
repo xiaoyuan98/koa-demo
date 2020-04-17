@@ -1,12 +1,24 @@
 # koa-demo
 
-#### 介绍
-配置了热更新，webpack打包，es6支持的koa框架初始模板
+## Indrouce
 
-#### 软件架构
-方便使用koa框架开发
+This is a web framework in some koa plugins that support HotModuleReplace, webpack, es6 support...
 
-#### 使用说明
 
-npm install （安装所有依赖包）
+## Plugins (already)
 
+1. koa-router
+1. koa-body
+1. @koa/cors
+1. koa-combine-routers
+1. koa-helmet
+1. koa-static
+1. koa-compose
+1. koa-compress
+[(You can search their function in here if you want)](https://www.npmjs.com/package/npm)
+
+## Useg
+
+
+1. npm install 
+1. Start you programe
