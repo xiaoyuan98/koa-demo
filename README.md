@@ -5,7 +5,7 @@
 This is a web framework in some koa plugins that support HotModuleReplace, webpack, es6 support...
 
 
-## Plugins (already)
+## KoaPlugins (already)
 
 1. koa-router
 1. koa-body
