@@ -13,6 +13,7 @@ import koaCompress from "koa-compress";
 
 const app = new Koa();
 
+
 const isDevMode = process.env.NODE_ENV === "'production'" ? false : true;
 /**
  * 使用koa-compose集成中间件
